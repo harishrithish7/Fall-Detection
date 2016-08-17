@@ -1,10 +1,11 @@
 # Fall-Detection
+Detect humans falling on the ground from a CCTV camera feed and limit the physical damage to the person by alerting the hospital authorities.
 
 Introduction
 ------------
 Elderly people tend to slip and fall in homes and remain unattended for a long time. 
 If the affected person is not treated immediately, serious health issues including brain injuries occur. 
-The proposed solution automatically detects humans falling, through cameras installed in homes, and sends notification to family members.
+The proposed solution automatically detects humans falling, through cameras installed in homes, and sends notification to family members and hospital authorities.
 
 Requirements
 ------------

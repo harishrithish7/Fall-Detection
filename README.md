@@ -20,24 +20,22 @@ falldetection <video_name>;
 ```matlab
 falldetection video.mp4;
 ```
-####Note
-The video should be saved in '..\Fall-Detection\Video' folder.
 
 Output
 ------
-####Original video frame
+###Original video frame
 [![original.png](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
 
-####Human segemented image
+###Human segemented image
 [![mask.png](https://s3.postimg.org/3m989kdgz/mask.png)](https://postimg.org/image/yt7vdh1db/)
 
-####Motion History Image (MHI)
+###Motion History Image (MHI)
 [![mhi.png](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
 
-####Human shape
+###Human shape
 [![shape.png](https://s4.postimg.org/576uymvyl/shape.png)](https://postimg.org/image/xk2cp3hop/)
 
-####When fall is detected
+###Fall Detected Notification
 [![fall.jpg](https://s3.postimg.org/6aagwho5f/fall.jpg)](https://postimg.org/image/tbr228nsv/)
 
 YouTube Demo Video Link
@@ -58,6 +56,7 @@ Algorithm
 Note
 ----
 * Live transmission from the camera to the software is not supported. Instead, the data from the camera is first stored and then processed.
+* The video should be saved in '..\Fall-Detection\Video' folder.
 * The notification is sent to the user through an app installed on the phone. The apk file is not included in this repository.
 
 Reference Paper

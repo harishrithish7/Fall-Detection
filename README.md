@@ -37,6 +37,9 @@ Output
 ####Human shape
 ![Human shape](https://github.com/harishrithish7/Fall-Detection/tree/master/images/shape.png "Human shape")
 
+####When fall is detected
+![Human shape](http://img.youtube.com/vi/LdoLniUSOaA/0.jpg "Fall Detected")
+
 YouTube Demo Video Link
 ------------------
 Demo of the project

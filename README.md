@@ -23,20 +23,20 @@ falldetection video.mp4;
 ####Note
 The video should be saved in '..\Fall-Detection\Video' folder.
 
-Flowchart
----------
-![Implemented Flowchart](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Flowchart")
-
-Algorithm
----------
-
-YouTube Demo Link
+YouTube Demo Video Link
 ------------------
 Demo of the project
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LdoLniUSOaA
 " target="_blank"><img src="http://img.youtube.com/vi/LdoLniUSOaA/0.jpg" 
 alt="Youtube Video: Human Fall Detection" width="240" height="180" border="10" /></a>
+
+Flowchart
+---------
+![Implemented Flowchart](https://github.com/harishrithish7/Fall-Detection/tree/master/images/flowchart.png "Flowchart")
+
+Algorithm
+---------
 
 Note
 ----

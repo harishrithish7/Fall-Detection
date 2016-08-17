@@ -54,7 +54,7 @@ Flowchart
 Note
 ----
 * Live transmission from the camera to the software is not supported. Instead, the data from the camera is first stored and then processed.
-* The video should be saved in '..\Fall-Detection\Video' folder.
+* The video feed should be saved in '..\Fall-Detection\Video' folder.
 * The notification is sent to the user through an app installed on the phone. The apk file is not included in this repository.
 
 Reference Paper

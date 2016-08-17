@@ -50,9 +50,6 @@ Flowchart
 ---------
 [![Page-4-Image-27.png](https://s4.postimg.org/lfue0o4fh/Page_4_Image_27.png)](https://postimg.org/image/8og7u5und/)
 
-Algorithm
----------
-
 Note
 ----
 * Live transmission from the camera to the software is not supported. Instead, the data from the camera is first stored and then processed.

@@ -23,6 +23,16 @@ falldetection video.mp4;
 ####Note
 The video should be saved in '..\Fall-Detection\Video' folder.
 
+Output
+------
+####Video frame
+
+####Human segementation
+
+####Motion History Image (MHI)
+
+####Shape of body
+
 YouTube Demo Video Link
 ------------------
 Demo of the project

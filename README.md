@@ -12,7 +12,7 @@ MATLAB R2013a
 
 Usage 
 -----
-MATLAB command line command
+MATLAB command line
 ```matlab
 falldetection <video_name>;
 ```
@@ -22,6 +22,10 @@ falldetection video.mp4;
 ```
 ####Note
 The video should be saved in '..\Fall-Detection\Video' folder.
+
+Flowchart
+---------
+![Implemented Flowchart](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Flowchart")
 
 Algorithm
 ---------

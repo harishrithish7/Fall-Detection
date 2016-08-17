@@ -32,7 +32,7 @@ Output
 ![Human segmented image](https://github.com/harishrithish7/Fall-Detection/tree/master/images/mask.png "Human segmented image")
 
 ####Motion History Image (MHI)
-![Motion History Image](https://github.com/harishrithish7/Fall-Detection/tree/master/images/mhi.png "Motion History Image")
+[![mhi.png](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
 
 ####Human shape
 ![Human shape](https://github.com/harishrithish7/Fall-Detection/tree/master/images/shape.png "Human shape")

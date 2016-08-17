@@ -12,6 +12,7 @@ MATLAB R2013a
 
 Usage 
 -----
+MATLAB command line command
 ```matlab
 falldetection <video_name>;
 ```
@@ -32,6 +33,11 @@ Demo of the project
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LdoLniUSOaA
 " target="_blank"><img src="http://img.youtube.com/vi/LdoLniUSOaA/0.jpg" 
 alt="Youtube Video: Human Fall Detection" width="240" height="180" border="10" /></a>
+
+Note
+----
+* Live transmission from the camera to the software is not supported. Instead, the data from the camera is first stored and then processed.
+* The notification is sent to the user through an app installed on the phone. The apk file is not included in this repository.
 
 Reference Paper
 ---------------

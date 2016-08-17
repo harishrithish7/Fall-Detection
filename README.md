@@ -26,19 +26,19 @@ The video should be saved in '..\Fall-Detection\Video' folder.
 Output
 ------
 ####Original video frame
-![Original video frame](https://github.com/harishrithish7/Fall-Detection/tree/master/images/original.png "Original video frame")
+[![original.png](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
 
 ####Human segemented image
-![Human segmented image](https://github.com/harishrithish7/Fall-Detection/tree/master/images/mask.png "Human segmented image")
+[![mask.png](https://s3.postimg.org/3m989kdgz/mask.png)](https://postimg.org/image/yt7vdh1db/)
 
 ####Motion History Image (MHI)
 [![mhi.png](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
 
 ####Human shape
-![Human shape](https://github.com/harishrithish7/Fall-Detection/tree/master/images/shape.png "Human shape")
+[![shape.png](https://s4.postimg.org/576uymvyl/shape.png)](https://postimg.org/image/xk2cp3hop/)
 
 ####When fall is detected
-![Human shape](http://img.youtube.com/vi/LdoLniUSOaA/0.jpg "Fall Detected")
+[![fall.jpg](https://s3.postimg.org/6aagwho5f/fall.jpg)](https://postimg.org/image/tbr228nsv/)
 
 YouTube Demo Video Link
 ------------------
@@ -50,7 +50,7 @@ alt="Youtube Video: Human Fall Detection" width="240" height="180" border="10" /
 
 Flowchart
 ---------
-![Implemented Flowchart](https://github.com/harishrithish7/Fall-Detection/tree/master/images/flowchart.png "Flowchart")
+[![Page-4-Image-27.png](https://s4.postimg.org/lfue0o4fh/Page_4_Image_27.png)](https://postimg.org/image/8og7u5und/)
 
 Algorithm
 ---------

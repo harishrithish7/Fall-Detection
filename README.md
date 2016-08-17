@@ -5,12 +5,13 @@ Usage
 ```matlab
 falldetection <video_name>;
 ```
-
-Example
--------
+###Example
 ```matlab
-falldetection video.mp4
+falldetection video.mp4;
 ```
+###Note
+The video should be stored in FallDetection/Video folder
+
 
 Motivation
 ----------

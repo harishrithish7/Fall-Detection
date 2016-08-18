@@ -13,7 +13,14 @@ MATLAB R2013a
 
 Usage 
 -----
-MATLAB command line
+
+####Installation
+
+1. Download zip 
+2. Unzip 
+3. Open falldetection.m in MATLAB 
+
+####MATLAB command line
 ```matlab
 falldetection <video_name>;
 ```
@@ -24,6 +31,9 @@ falldetection video.mp4;
 
 Output
 ------
+###Working
+[![giphy.gif](https://s4.postimg.org/49t4relod/giphy.gif)](https://postimg.org/image/qlqxksks9/)
+
 ###Original video frame
 [![original.png](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
 

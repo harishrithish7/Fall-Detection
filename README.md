@@ -32,22 +32,22 @@ falldetection video.mp4;
 Output
 ------
 ###Working
-[![giphy.gif](https://s4.postimg.org/49t4relod/giphy.gif)](https://postimg.org/image/qlqxksks9/)
+[![Working](https://s4.postimg.org/49t4relod/giphy.gif)](https://postimg.org/image/qlqxksks9/)
 
 ###Original video frame
-[![original.png](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
+[![Original video frame](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
 
 ###Human segemented image
-[![mask.png](https://s3.postimg.org/3m989kdgz/mask.png)](https://postimg.org/image/yt7vdh1db/)
+[![Human segemented image](https://s3.postimg.org/3m989kdgz/mask.png)](https://postimg.org/image/yt7vdh1db/)
 
 ###Motion History Image (MHI)
-[![mhi.png](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
+[![Motion History Image](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
 
 ###Human shape
-[![shape.png](https://s4.postimg.org/576uymvyl/shape.png)](https://postimg.org/image/xk2cp3hop/)
+[![Human shape](https://s4.postimg.org/576uymvyl/shape.png)](https://postimg.org/image/xk2cp3hop/)
 
 ###Fall Detected Notification
-[![fall.jpg](https://s3.postimg.org/6aagwho5f/fall.jpg)](https://postimg.org/image/tbr228nsv/)
+[![Fall Detected Notification](https://s3.postimg.org/6aagwho5f/fall.jpg)](https://postimg.org/image/tbr228nsv/)
 
 YouTube Demo Video Link
 ------------------
@@ -59,7 +59,7 @@ alt="Youtube Video: Human Fall Detection" width="240" height="180" border="10" /
 
 Flowchart
 ---------
-[![Page-4-Image-27.png](https://s4.postimg.org/lfue0o4fh/Page_4_Image_27.png)](https://postimg.org/image/8og7u5und/)
+[![Flowchart](https://s4.postimg.org/lfue0o4fh/Page_4_Image_27.png)](https://postimg.org/image/8og7u5und/)
 
 Note
 ----
@@ -71,7 +71,9 @@ Reference Paper
 ---------------
 C.Rougier,J.MeunierFall,A.Arnaud and J.Rousseau. Detection from Human Shape and Motion History using Video Surveillance. *Proceedings of the 21st International Conference on Advanced Information Networking and Applications Workshops*,2007. 
 
-
+License
+-------
+[![License](https://s3.postimg.org/5h9joly3n/license.png)](https://postimg.org/image/g43cu168v/)
 
 
 
